@@ -1,0 +1,13 @@
+.flexme {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#showme {
+    flex-basis: 45%;
+    border: 1px solid #f0f;
+}
+#themoney {
+    flex-basis: 45%;
+    border: 1px solid #ff0;
+}
